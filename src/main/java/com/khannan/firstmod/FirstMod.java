@@ -1,4 +1,4 @@
-package com.khannan.demo;
+package com.khannan.firstmod;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Blocks;
